@@ -1,6 +1,4 @@
 # Nutanix Blueprint to deploy Riverbed SteelCentral NetProfiler
-
-================
   
 Réferences editeurs
 ------------
