@@ -1,12 +1,11 @@
 # Nutanix Blueprint to deploy Riverbed SteelCentral NetProfiler
   
-Réferences editeurs
+Project abstract
 ------------
-- Riverbed : 
-  -  lien de téléchargement : https://support.riverbed.com/content/support/software/steelcentral-npm/net-profiler.html
-  -  clé d'installation trial : SCNP-VE-50K-E -- AAAB-AAAI-NMAH-I356
-
-- Nutanix AHV : importer un OVA
-  - https://portal.nutanix.com/page/documents/kbs/details?targetId=kA03200000099TXCAY
+- Create a blueprint for a Riverbed Steel NetProfiler setup on AHV  
+- Scenario (first approach) : 
+  - Procedure for downloading installation sources (only OVA at the moment)
+  - Create a qcow2 image
+  - Setup deploy NetProfiler
 
 
